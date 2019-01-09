@@ -1,0 +1,22 @@
+{
+    "name": "xyz",
+    "license": "SEE LICENSE IN <your-license-filename>",
+    "version": "0.0.0",
+    "dependencies": {
+        "@angular/animations": "~7.1.0",
+        "@angular/common": "~7.1.0",
+        "@angular/compiler": "~7.1.0",
+        "@angular/core": "~7.1.0",
+        "@angular/forms": "~7.1.0",
+        "@angular/http": "~7.1.0",
+        "@angular/platform-browser": "~7.1.0",
+        "@angular/platform-browser-dynamic": "~7.1.0",
+        "@angular/router": "~7.1.0"
+    },
+    "devDependencies": {
+        "@angular/cli": "^7.1.0",
+        "@angular/compiler-cli": "~7.1.0",
+        "@angular-devkit/core": "~7.1.0",
+        "typescript": "~3.1.1"
+    }
+}

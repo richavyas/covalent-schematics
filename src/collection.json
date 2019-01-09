@@ -1,9 +1,10 @@
 {
   "$schema": "../node_modules/@angular-devkit/schematics/collection-schema.json",
   "schematics": {
-    "covalent-schematics": {
-      "description": "A blank schematic.",
-      "factory": "./covalent-schematics/index#covalentSchematics"
+    "application": {
+      "factory": "./ng-new",
+      "description": "Create a new Covalent application.",
+      "schema": "./ng-new/schema.json"
     }
   }
 }
